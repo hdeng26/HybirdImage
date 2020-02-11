@@ -128,8 +128,8 @@ img2 = cv2.imread('right.jpg',0)
 # hybrid(lowpass_image, highpass_image, lowpass_sigma, highpass_sigma)
 hyd = hybrid(img1, img2, 2, 1)
 
-cv2.imshow("hydrid", hyd)
-cv2.imwrite("hydrid.jpg", hyd)
+cv2.imshow("hybrid", hyd)
+cv2.imwrite("hybrid.jpg", hyd)
 
 cv2.waitKey(0) # waits until a key is pressed
 cv2.destroyAllWindows() # destroys the window showing image
