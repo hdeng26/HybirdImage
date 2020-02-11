@@ -15,4 +15,4 @@ The image I used in main function is left.jpg and right.jpg. The final result is
 
 ![image](https://github.com/strollingorange/HybirdImage/raw/master/right.jpg)
 
-![image](https://github.com/strollingorange/HybirdImage/raw/master/hydird.png)
+![image](https://github.com/strollingorange/HybirdImage/raw/master/hybird.jpg)
